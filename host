@@ -1,0 +1,14 @@
+# Title: Rolinkov /hosts tests
+# 15.03.2026
+
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+127.0.0.1 yt3.ggpht.com
+127.0.0.1 cdn.statically.io
+127.0.0.1 i.ytimg.com
+127.0.0.1 o.pki.goog
+127.0.0.1 publicsuffix.org
+127.0.0.1 self.adblockultimate.net
+127.0.0.1 returnyoutubedislikeapi.com
